@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Scotch Whisky Society of Greater Louisiana",
+        "imageSrc": "projects/css-syntax.jpg", 
+        "description": "A project made for a group I work with",
+        "skills": ["React", "Express", "Node"],
+        "demo": "https://", 
+        "source": "https://www.github.com"
+    },
+
+    {
+        "title": "Louisiana Christian Canine Sodality",
+        "imageSrc": "projects/css-syntax.jpg", 
+        "description": "A project made for a group I work with",
+        "skills": ["React", "Express", "Node", "FontAwesome CDN"],
+        "demo": "https://", 
+        "source": "https://www.github.com"
+    },
+
+    {
+        "title": "String Twang",
+        "imageSrc": "projects/css-syntax.jpg", 
+        "description": "A project made to show audio interactivity with a web application",
+        "skills": ["React", "Express", "Node", "JavaScript"],
+        "demo": "https://", 
+        "source": "https://www.github.com"
+    }
+]

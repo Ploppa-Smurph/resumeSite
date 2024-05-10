@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .container {
-    color: var(--color-03);
+    color: var(--color-text);
     margin-top: 79px;
     margin-left: 10%;
     margin-right: 10%;
@@ -69,7 +69,7 @@
     align-items: center;
     gap: 17px;
     background: var(--color-04);
-    background: linear-gradient(90deg, #ffb703 0%, #eee 100%);
+    background: linear-gradient(90deg, #ffb703 0%, #fb8500 100%);
     border-radius: 10px;
     padding: 24px;
 }
