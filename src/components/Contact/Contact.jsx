@@ -1,4 +1,4 @@
-import React from 'react';
+
 import styles from "./Contact.module.css";
 import {getImageURL} from "../../utils.js";
 
@@ -24,6 +24,5 @@ export const Contact = () => {
             </li>
         </ul>
     </footer>
-
-  );
+  )
 };
