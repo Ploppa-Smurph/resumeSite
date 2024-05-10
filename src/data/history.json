@@ -1,0 +1,26 @@
+[
+    {
+        "role": "PC Building, Repair, and Networking",
+        "organization": "Walley Works",
+        "startdate": "July, 2017",
+        "enddate": "Present",
+        "experience": ["PC design", "PC and Network Repair", "Network setup and security"],
+        "imageSrc": "history/jwww_splat.png"
+    },
+    {
+        "role": "Front of House Restaurant Manager",
+        "organization": "Grimaldi's Pizzeria",
+        "startdate": "January, 2015",
+        "enddate": "July, 2017",
+        "experience": ["Employee Training", "Exceptional Customer Service", "Maintaing Quality Standards"],
+        "imageSrc": "history/grimaldis.png"
+    },
+    {
+        "role": "Retail Comic Shop Owner",
+        "organization": "Walley's POP Comics",
+        "startdate": "March, 2004",
+        "enddate": "July, 2012",
+        "experience": ["Retail Store Design", "Inventory and Merchandising", "Brand Development"],
+        "imageSrc": "history/popLogo.png"
+    }
+]
