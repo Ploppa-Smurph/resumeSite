@@ -1,8 +1,9 @@
 import styles from './App.module.css';
+import { navbar } from "./components/navbar/navbar";
 
 function App() {
   return <div className={styles.App}>
-    <Navbar />
+    <navbar />
   </div>;
 }
 
