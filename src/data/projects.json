@@ -5,16 +5,16 @@
         "description": "A project made for a group I work with",
         "skills": ["React", "Express", "Node"],
         "demo": "https://scotchwhiskygla.netlify.app/", 
-        "source": "https://www.github.com"
+        "source": "https://github.com/Ploppa-Smurph/projects/tree/main/websites/scotch"
     },
 
     {
         "title": "Louisiana Christian Canine Sodality",
         "imageSrc": "projects/css-syntax.jpg", 
         "description": "A project made for a group I work with",
-        "skills": ["React", "Express", "Node", "FontAwesome CDN"],
+        "skills": ["React", "Express", "FontAwesome CDN"],
         "demo": "https://louisianacanine.netlify.app/", 
-        "source": "https://www.github.com"
+        "source": "https://github.com/Ploppa-Smurph/projects/tree/main/websites/lccs"
     },
 
     {
@@ -22,7 +22,7 @@
         "imageSrc": "projects/css-syntax.jpg", 
         "description": "A project made to show audio interactivity with a web application",
         "skills": ["React", "Express", "Node", "JavaScript"],
-        "demo": "https://", 
+        "demo": "https://www.example.com", 
         "source": "https://www.github.com/Ploppa-Smurph"
     }
 ]
