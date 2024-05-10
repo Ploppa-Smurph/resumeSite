@@ -22,6 +22,7 @@
 }
 
 .menuBtn {
+    display: none;
     width: 18px;
     height: 20px;
 }
@@ -47,7 +48,7 @@
     .menu {
         position: absolute;
         right: 0;
-        margin-right: 10%;
+        margin-right: 2%;
         flex-direction: column;
         align-items: flex-end;
         gap: 11px;
@@ -56,8 +57,7 @@
 
     .menuBtn {
         display: block;
-        cursor: pointer;
-   
+        cursor: pointer;   
     }
 
     .menuItems {
@@ -68,7 +68,7 @@
         border-radius: 10px;
         background: var(--color-04);
         background: linear-gradient(0deg, var(--color-05, 0.2) 0%, var(--color-04, 1) 100%);
-        padding: 22px 32px;
+        padding: 24px 32px;
         box-shadow: 0 0 2px 0 var(--color-03, 0.15);
     }
 
