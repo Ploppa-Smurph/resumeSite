@@ -1,14 +1,14 @@
-import React from 'react';
 import styles from "./ProjectCard.module.css";
 import {getImageURL} from "../../utils";
 
 export const ProjectCard = ({
+    // eslint-disable-next-line react/prop-types
     project: {title, imageSrc, description, skills, demo, source}, 
     }) => {
     return (
     <div className={styles.container}>
         <img 
-            src={getImageURL(imageSrc)} 
+            src={getImageURL(imageSrc)}
             alt={`Image of ${title}`}
             className={styles.image} 
         />

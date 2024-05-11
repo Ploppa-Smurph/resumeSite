@@ -16,15 +16,23 @@
         "imageSrc": "skills/node.png"
     },
     {
-        "title": "GraphQL",
-        "imageSrc": "skills/graphQL.png"
+        "title": "CompTIA A+",
+        "imageSrc": "skills/comptia_A.png"
     },
     {
-        "title": "MongoDB",
-        "imageSrc": "skills/mongoDB.png"
+        "title": "CompTIA Network+",
+        "imageSrc": "skills/comptia_Network.png"
     }, 
     {
-        "title": "Figma", 
-        "imageSrc": "skills/figma.png"
+        "title": "CompTIA Security+", 
+        "imageSrc": "skills/comptia_Security.png"
+    },
+    {
+        "title": "CompTIA CIOS", 
+        "imageSrc": "skills/comptia_CIOS.jpg"
+    },
+    {
+        "title": "CompTIA CSIS", 
+        "imageSrc": "skills/comptia_CSIS.jpg"
     }
 ]

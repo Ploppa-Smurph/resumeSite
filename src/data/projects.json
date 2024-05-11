@@ -1,7 +1,7 @@
 [
     {
         "title": "Scotch Whisky Society of Greater Louisiana",
-        "imageSrc": "projects/css-syntax.jpg", 
+        "imageSrc": "projects/swsgla.png", 
         "description": "A project made for a group I work with",
         "skills": ["React", "Express", "Node"],
         "demo": "https://scotchwhiskygla.netlify.app/", 
@@ -10,7 +10,7 @@
 
     {
         "title": "Louisiana Christian Canine Sodality",
-        "imageSrc": "projects/css-syntax.jpg", 
+        "imageSrc": "projects/lccs.png", 
         "description": "A project made for a group I work with",
         "skills": ["React", "Express", "FontAwesome CDN"],
         "demo": "https://louisianacanine.netlify.app/", 
@@ -18,11 +18,20 @@
     },
 
     {
-        "title": "String Twang (Future Project not completed)",
+        "title": "Shirmp and Snail Friends",
+        "imageSrc": "projects/shrimpSnail.png", 
+        "description": "Picture site I set up for my shrimp and snail friends.",
+        "skills": ["React", "Express", "FontAwesome CDN"],
+        "demo": "https://shrimpandsnails.netlify.app/", 
+        "source": "https://github.com/Ploppa-Smurph/projects/tree/main/websites/shrimp"
+    },
+
+    {
+        "title": "Objective|Sounds.ART (not available currently)",
         "imageSrc": "projects/css-syntax.jpg", 
-        "description": "A project made to show audio interactivity with a web application",
+        "description": "A project being co-developed with audio and visual interactivity",
         "skills": ["React", "Express", "Node", "JavaScript"],
-        "demo": "https://www.example.com", 
+        "demo": "https://www.objectivesounds.art", 
         "source": "https://www.github.com/Ploppa-Smurph"
     }
 ]
