@@ -7,7 +7,7 @@
     background: linear-gradient(180deg, #ffb703 0%, #fb8500 100%);
     box-shadow: 0 16px 14px 0 #023047;
     padding: 18px 24px;
-    max-width: 345px;
+    max-width: 350px;
 }
 
 .image {
@@ -22,12 +22,14 @@
 .title {
     font-size: 25px;
     font-weight: 700;
+    text-align: center;
 }
 
 .description {
     margin-top: 6px;
     font-size: 20px;
     font-weight: 400;
+    text-align: center;
 }
 
 .skills {
@@ -38,10 +40,11 @@
     flex-wrap: wrap;
     gap: 6px;
     list-style: none;
+    justify-content: center;
 }
 
 .skill {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400;
     border-radius: 100px;
     background: var(--color-02);
@@ -64,4 +67,34 @@
     border-radius: 100px;
     background: var(--color-03);
     padding: 1px 22px;
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        max-width: 250px;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+
+    .image {
+        width: 225px;
+    }
+
+    .description {
+        font-size: 11px;
+    }
+
+    .skill {
+        font-size: 16px;
+        padding: 5px;
+
+    }
+
+    .link {
+        font-size: 25px;
+        padding: 10px;
+    }
+
 }

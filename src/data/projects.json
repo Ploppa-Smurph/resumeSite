@@ -18,7 +18,7 @@
     },
 
     {
-        "title": "Shirmp and Snail Friends",
+        "title": "Shrimp and Snail Friends",
         "imageSrc": "projects/shrimpSnail.png", 
         "description": "Picture site I set up for my shrimp and snail friends.",
         "skills": ["React", "Express", "FontAwesome CDN"],
