@@ -13,7 +13,7 @@
         "imageSrc": "projects/lccs.png", 
         "description": "A project made for a group I work with",
         "skills": ["React", "Express", "FontAwesome CDN"],
-        "demo": "https://louisianacanine.netlify.app/", 
+        "demo": "https://laccs.netlify.app/", 
         "source": "https://github.com/Ploppa-Smurph/projects/tree/main/websites/lccs"
     },
 
