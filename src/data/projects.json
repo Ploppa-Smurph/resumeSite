@@ -12,26 +12,26 @@
         "title": "Louisiana Christian Canine Sodality",
         "imageSrc": "projects/lccs.png", 
         "description": "A project made for a group I work with",
-        "skills": ["React", "Express", "FontAwesome CDN"],
+        "skills": ["Custom CSS", "HTML", "JavaScript", "FontAwesome"],
         "demo": "https://laccs.netlify.app/", 
         "source": "https://github.com/Ploppa-Smurph/projects/tree/main/websites/lccs"
     },
 
     {
-        "title": "Shrimp and Snail Friends",
+        "title": "Shrimp and Snail Friends / Currently Revising",
         "imageSrc": "projects/shrimpSnail.png", 
         "description": "Picture site I set up for my shrimp and snail friends.",
-        "skills": ["React", "Express", "FontAwesome CDN"],
+        "skills": ["Custom CSS", "HTML", "JavaScript", "FontAwesome"],
         "demo": "https://shrimpandsnails.netlify.app/", 
         "source": "https://github.com/Ploppa-Smurph/projects/tree/main/websites/shrimp"
     },
 
     {
-        "title": "Objective|Sounds.ART (not available currently)",
+        "title": "Objective|Sounds.ART (IN PROGRESS)",
         "imageSrc": "projects/css-syntax.jpg", 
         "description": "A project being co-developed with audio and visual interactivity",
         "skills": ["React", "Express", "Node", "JavaScript"],
-        "demo": "https://www.objectivesounds.art", 
-        "source": "https://www.github.com/Ploppa-Smurph"
+        "demo": "https://objectivesound.netlify.app", 
+        "source": "https://github.com/Ploppa-Smurph/objectiveSound"
     }
 ]
