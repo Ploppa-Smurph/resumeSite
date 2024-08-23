@@ -34,5 +34,17 @@
     {
         "title": "CompTIA CSIS", 
         "imageSrc": "skills/comptia_CSIS.jpg"
+    },
+    {
+        "title": "Computer Repair, CTC", 
+        "imageSrc": "skills/pc-tower.png"
+    },
+    {
+        "title": "Network Security, CTC", 
+        "imageSrc": "skills/cybersecurity.png"
+    },
+    {
+        "title": "Network Defense, CTC", 
+        "imageSrc": "skills/netDefense.png"
     }
 ]
